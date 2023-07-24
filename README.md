@@ -29,6 +29,11 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 4)2 üniden 2 üniye 4 adet sefer vardır.
 # UYGULAMA SAYFALARI
 1,LOGİN,REGİSTER,ANASAYFA HAZIR
+2)Ben rezervasyon şeklinde yaptım yanlız iyzico ile entegre edip ödeme formu oluşturabilirim.
+3)İstenirse backend olarak firebase yada django kullanıp geliştirebilirim projeyi 
+4)Projenin netliyda canlı linki var deploy ettim.
+5) iconlarda react icon kullandım.
+6)Eksiklikler var fakat geliştirebilirim.
 
 
 
