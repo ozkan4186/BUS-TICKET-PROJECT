@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
 ## Getting Started
 
 First, run the development server:
@@ -17,6 +18,14 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+# TEKNİK BİLGİLER
+1) Proje next.js ile yazılmıştır.
+2)Typescript ve Context Apı kullanılmıştır.
+3)Sefer verileri için  Nextjs Apı Routes Kullanılmıştır.
+4)2 üniden 2 üniye 4 adet sefer vardır.
+# UYGULAMA SAYFALARI
+1,LOGİN,REGİSTER,ANASAYFA HAZIR
 
 
 
